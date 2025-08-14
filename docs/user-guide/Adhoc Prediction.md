@@ -2,11 +2,13 @@
 sidebar_position: 4
 ---
 
-## How to Make a Prediction
+## How to Make a Adhoc Prediction
+![alt text](image-2.png)
+![alt text](image-4.png)
 
 Once your wallet is connected, you can start making predictions.
 
-1.  **Open the Prediction Dialog:** Click on the main **"Predict"** button to open the prediction settings dialog.
+1.  **Open the Prediction Dialog:** Click on the main **"Get more price predictions with a one-time payment"** button to open the prediction settings dialog.
 
 2.  **Select Cryptocurrency:** Choose the cryptocurrency you want to predict from the dropdown list.
 
@@ -27,6 +29,7 @@ Once your wallet is connected, you can start making predictions.
 You can view your entire prediction history at any time.
 
 ### Prediction History
+![alt text](image-3.png)
 
 Click on the **"Prediction Orders"** button (or similar) to open a dialog listing all of your past predictions. This list is scrollable, and more orders will load as you scroll to the bottom.
 
