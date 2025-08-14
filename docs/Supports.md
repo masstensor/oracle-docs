@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-Social media accounts to reach us.
+Connect with us on social media.
 
 ## Twitter
 https://x.com/AgentsPred82457

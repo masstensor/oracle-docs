@@ -4,29 +4,32 @@ title: "What is a Prediction?"
 ---
 
 ## What is a Prediction?
-A prediction is a forecast for a specific cryptocurrency's price movement from the prediction time to verify time(aka. duration). 
+A prediction is an AI-generated forecast of a specific cryptocurrency’s price movement, covering the period from the prediction time to the verification time (also called the duration).
 
-Prediction has a very important parameter: confidence level. A higher confidence level means more AI Agents will collaborate, which generally increases prediction accuracy. For example: 55% confidence engages 11 AI Agents with approximately 55% statistical accuracy, 60% confidence engages 17 AI Agents and 65% confidence engages 29 AI Agents. Since more agents require more computational resources, the cost will vary based on the selected confidence level.
+One key parameter of a prediction is the confidence level. A higher confidence level means more AI Agents will collaborate on the forecast, which generally improves accuracy. For example, a 55% confidence level engages 11 AI Agents with roughly 55% statistical accuracy, 60% confidence engages 17 AI Agents, and 65% confidence engages 29 AI Agents. Since more agents require greater computational resources, the cost increases with higher confidence levels.
 
-Each prediction will output 3 key information:
-- Prediction Time, the timestamp when prediction started.
-- Start price, the target cryptocurrency price at prediction time.
-- Trend, the whole price movement between prediction time and verify time, there are 2 possible trend: 
-  - UP, the price at verify time great than start price
-  - DOWN, the price at verify time less than start price
+Each prediction produces three key outputs:
+- Prediction Time – the timestamp when the prediction was generated.
+- Start Price – the cryptocurrency’s price at the prediction time.
+- Trend – the overall price movement from prediction time to verification time, with two possible outcomes:
+  - UP – the price at verification time is higher than the start price.
+  - DOWN – the price at verification time is lower than the start price.
 
-Currently we can only predict price movement in next 24 hours duration, longer duration prediction service will rollup soon.
+Currently, we can only predict price movements for the next 24-hour duration. Support for longer prediction periods will be rolled out soon.
 
 ## Prediction Accuracy
-We trace the historic culmulative prediction accuracy for each cryptocurrency.
+We track the historical cumulative prediction accuracy for each supported cryptocurrency.
 
 ## Prediction Service
-We provide 2 prediction services to connected users, these predictions can be used as you will.
+We offer two types of prediction services for connected users. You can use these predictions however you wish.
 
 ### Free Predictions
-Each day, the platform provides free predictions for major cryptocurrencies. Currently, BTC and ETH predictions at 60% confidence level are available daily. Our backend service will start the free prediction routines at 00:00 UTC everyday. But, because AI agents running need times and each cryptocurrency predict one by one, so the prediction time is not exactly at 00:00 UTC, you can check the start time of prediction by "Prediction Time" field.
+Every day, the platform generates free predictions for major cryptocurrencies. Currently, BTC and ETH predictions are available daily at a 60% confidence level.
+Our backend service begins the free prediction routine at 00:00 UTC each day. However, since AI agents require time to run and each cryptocurrency is processed sequentially, the actual prediction time may not be exactly at 00:00 UTC. You can check the exact prediction time in the **Prediction Time** field.
 
-Free prediction always predict next 24 hours price movement.
+Free predictions always forecast price movements for the next 24 hours.
 
 ### Premium Predcitions
-If you want to predict price movement of a cryptocurrency at some time you like, you can use our premium predciton service. Via premium prediction service, you can also predict price movement of another cryptocurrencies except BTC and ETH, currently we provide service for: BTC, ETH, SOL, BNB, OKB, XRP, ADA, AVAX, DOT, LINK, FIL, DOGE, SHIB, PEPE, ORDI, SUI, TON, BGB, HBAR, XLM, BCH, TRX, LTC, DAI, LEO, UNI, POL, HNT, DIMO, IOTX.
+If you want to predict the price movement of a cryptocurrency at a specific time of your choice, you can use our Premium Prediction service.
+With Premium Predictions, you can also forecast the price movements of cryptocurrencies beyond BTC and ETH. Currently supported assets include:
+BTC, ETH, SOL, BNB, OKB, XRP, ADA, AVAX, DOT, LINK, FIL, DOGE, SHIB, PEPE, ORDI, SUI, TON, BGB, HBAR, XLM, BCH, TRX, LTC, DAI, LEO, UNI, POL, HNT, DIMO, IOTX.
