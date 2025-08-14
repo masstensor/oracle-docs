@@ -1,8 +1,8 @@
 ---
 sidebar_position: 2
-sidebar_label: 'How It Works?'
+sidebar_label: 'How It Works'
 slug: how-it-works
-title: How It Works?
+title: How It Works
 ---
 
 

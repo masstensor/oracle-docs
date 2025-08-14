@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: "What is a Prediction?"
+title: "What is a Prediction"
 ---
 
 ## What is a Prediction?
