@@ -28,5 +28,5 @@ Each day, the platform provides free predictions for major cryptocurrencies. Cur
 
 Free prediction always predict next 24 hours price movement.
 
-### Adhoc Predcitions
-If you want to predict price movement of a cryptocurrency at some time you like, you can use our adhoc predciton service. Via Adhoc prediction service, you can also predict price movement of another cryptocurrencies except BTC and ETH, currently we provide service for: BTC, ETH, SOL, BNB, OKB, XRP, ADA, AVAX, DOT, LINK, FIL, DOGE, SHIB, PEPE, ORDI, SUI, TON, BGB, HBAR, XLM, BCH, TRX, LTC, DAI, LEO, UNI, POL, HNT, DIMO, IOTX.
+### Premium Predcitions
+If you want to predict price movement of a cryptocurrency at some time you like, you can use our premium predciton service. Via premium prediction service, you can also predict price movement of another cryptocurrencies except BTC and ETH, currently we provide service for: BTC, ETH, SOL, BNB, OKB, XRP, ADA, AVAX, DOT, LINK, FIL, DOGE, SHIB, PEPE, ORDI, SUI, TON, BGB, HBAR, XLM, BCH, TRX, LTC, DAI, LEO, UNI, POL, HNT, DIMO, IOTX.

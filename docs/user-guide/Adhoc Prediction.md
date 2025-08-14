@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-## How to Make a Adhoc Prediction
+## How to Make a Premium Prediction
 ![alt text](image-2.png)
 ![alt text](image-4.png)
 
