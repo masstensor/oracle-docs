@@ -18,3 +18,7 @@ https://polygonscan.com/address/0x2f8C5D7F65588b7C58365682879de0AE774f86E8
 This is the contract address of the payment token used for premium prediction fees. Currently, only $USDT is supported.
 
 https://polygonscan.com/address/0xc2132D05D31c914a87C6611C10748AEb04B58e8F
+
+## Price Data
+Price data sourced from Binance Developer Center:
+https://developers.binance.com/docs/binance-spot-api-docs/rest-api/market-data-endpoints
